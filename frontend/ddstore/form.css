@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+  
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    font-size: 16px;
+}
+:root {
+    --lightpurple: #7091E6;
+    --darkblue:#3D52A0;
+    --silver: #f0edf6;
+    --hover: rgb(43, 43, 43);
+    --white: #ADBBDA;
+    --middle: #6d7fb1;
+    --main-color: #009ef9;
+}
+
+body {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+     margin-top: 100px; 
+     background-color:var(--darkblue);
+    line-height: 1.6;
+    color: black;
+  
+}
+.subheading {
+    margin-top: 20px;
+    color: var(--darkblue);
+    font-size: 1.8rem;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+.button-main-2 {
+    margin-top: 15px;
+    padding: 10px 15px;
+    background-color: var(--darkblue);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 100%;
+}
+
+.button-main-2:hover {
+    background-color: #e67e22;
+}
+
+
+
+/* Login */
+.login-container {
+    background-color: white;
+    padding: 40px 50px 40px 50px ;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    height: 400px;
+    text-align: center;
+   
+}
+
+.login-container h1 {
+    font-size: 1.2rem;
+    color: var(--darkblue);
+}
+
+
+.login-container form {
+    display: flex;
+    flex-direction: column;
+}
+
+.login-container input {
+    margin-bottom: 5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.login-container .error {
+    color: red;
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+
+
+/* Modal styles */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding-top: 60px;
+    border-radius: 10px;
+}
+.modal-content {
+    background-color: #fefefe;
+    margin: 5% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 600px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    animation: animateModal 0.3s;
+    border-radius: 10px;
+}
+@keyframes animateModal {
+    from {
+        top: -300px;
+        opacity: 0;
+    }
+    to {
+        top: 0;
+        opacity: 1;
+    }
+}
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.modal-header h2 {
+    margin: 0;
+}
+.close {
+    color: #aaa;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+.modal-body {
+    padding: 20px 0;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    padding-right: 10px;
+}
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.button-class{
+    background-color: #1abc9c;
+    padding: 10px 10px 10px 10px;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    border-color: #1abc9c;
+    display: flex;
+    justify-content: center;
+    float: right;
+}
