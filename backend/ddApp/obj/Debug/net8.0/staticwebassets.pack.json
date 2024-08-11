@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Ashane\\My Projects\\Websites\\ddApp\\wwwroot\\images\\adidas.jpg",
+      "PackagePath": "staticwebassets\\images\\adidas.jpg"
+    },
+    {
+      "Id": "D:\\Ashane\\My Projects\\Websites\\ddApp\\wwwroot\\images\\formal_shoes.jpg",
+      "PackagePath": "staticwebassets\\images\\formal_shoes.jpg"
+    },
+    {
+      "Id": "D:\\Ashane\\My Projects\\Websites\\ddApp\\wwwroot\\images\\nike.jpg",
+      "PackagePath": "staticwebassets\\images\\nike.jpg"
+    },
+    {
+      "Id": "D:\\Ashane\\My Projects\\Websites\\ddApp\\wwwroot\\images\\running_shoes.jpg",
+      "PackagePath": "staticwebassets\\images\\running_shoes.jpg"
+    },
+    {
+      "Id": "D:\\Ashane\\My Projects\\Websites\\ddApp\\wwwroot\\images\\shoes-8026038_1280.jpg",
+      "PackagePath": "staticwebassets\\images\\shoes-8026038_1280.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ddApp.props",
+      "PackagePath": "build\\ddApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ddApp.props",
+      "PackagePath": "buildMultiTargeting\\ddApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ddApp.props",
+      "PackagePath": "buildTransitive\\ddApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ddApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,1073 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ashane\\My Projects\\Websites\\ddApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\interfaces\\ioutletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:interfaces\\ioutletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\repository\\mainstockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:repository\\mainstockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\controllers\\substockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:controllers\\substockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\repository\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:repository\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\repository\\substockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:repository\\substockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\repository\\preorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:repository\\preorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\repository\\partnerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:repository\\partnerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\dto\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:dto\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\dto\\orderitemuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:dto\\orderitemuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\controllers\\partnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:controllers\\partnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\controllers\\mainstockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:controllers\\mainstockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\interfaces\\isubstockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:interfaces\\isubstockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\interfaces\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:interfaces\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\models\\mainstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:models\\mainstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\interfaces\\imainstockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:interfaces\\imainstockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\controllers\\preordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:controllers\\preordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\controllers\\outletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:controllers\\outletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\repository\\outletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:repository\\outletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\repository\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:repository\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\models\\substock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:models\\substock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\models\\preorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:models\\preorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\models\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:models\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\models\\outlet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:models\\outlet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\dto\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:dto\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\dto\\substockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:dto\\substockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\dto\\preorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:dto\\preorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\dto\\outletdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:dto\\outletdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\dto\\partnerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:dto\\partnerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\dto\\mainstockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:dto\\mainstockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\dal\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:dal\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Ashane\\My Projects\\Websites\\ddApp\\Migrations\\20240804141105_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240804141105_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\interfaces\\ipartnerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:interfaces\\ipartnerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\interfaces\\isalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:interfaces\\isalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\interfaces\\ipreorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:interfaces\\ipreorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\ddapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:ddapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|d:\\ashane\\my projects\\websites\\ddapp\\migrations\\20240804143232_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20753F7F-32AF-4499-92F9-01F7FA2C2B1B}|ddApp.csproj|solutionrelative:migrations\\20240804143232_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 186,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwEEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:43:39.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOutletRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\IOutletRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IOutletRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\IOutletRepository.cs",
+              "RelativeToolTip": "Interfaces\\IOutletRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:36:25.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAswIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:56:06.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAowKAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:42:35.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IOrderRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Interfaces\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:33:49.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainStockRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\MainStockRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\MainStockRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\MainStockRepository.cs",
+              "RelativeToolTip": "Repository\\MainStockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:31:51.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:42:46.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAgwJkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T15:09:29.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dto\\UserDto.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\UserDto.cs",
+              "RelativeToolTip": "Dto\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:41:12.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SubStockController.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\SubStockController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SubStockController.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\SubStockController.cs",
+              "RelativeToolTip": "Controllers\\SubStockController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAkwI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T15:12:39.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SaleRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\SaleRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\SaleRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\SaleRepository.cs",
+              "RelativeToolTip": "Repository\\SaleRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwDQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:33:18.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "Repository\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:38:03.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubStockRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\SubStockRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\SubStockRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\SubStockRepository.cs",
+              "RelativeToolTip": "Repository\\SubStockRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwDAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:32:39.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:01:33.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PreOrderRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\PreOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\PreOrderRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\PreOrderRepository.cs",
+              "RelativeToolTip": "Repository\\PreOrderRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:40:12.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PartnerRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\PartnerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\PartnerRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\PartnerRepository.cs",
+              "RelativeToolTip": "Repository\\PartnerRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:30:07.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:55:21.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderDetailsDto.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\OrderDetailsDto.cs",
+              "RelativeDocumentMoniker": "Dto\\OrderDetailsDto.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\OrderDetailsDto.cs",
+              "RelativeToolTip": "Dto\\OrderDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:28:48.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Dto\\OrderDto.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\OrderDto.cs",
+              "RelativeToolTip": "Dto\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T10:24:47.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "Dto\\OrderItemDto.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\OrderItemDto.cs",
+              "RelativeToolTip": "Dto\\OrderItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:38:43.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderItemUserDto.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\OrderItemUserDto.cs",
+              "RelativeDocumentMoniker": "Dto\\OrderItemUserDto.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\OrderItemUserDto.cs",
+              "RelativeToolTip": "Dto\\OrderItemUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:32:39.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SaleController.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "Controllers\\SaleController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAgwFgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T15:09:56.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PartnerController.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\PartnerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PartnerController.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\PartnerController.cs",
+              "RelativeToolTip": "Controllers\\PartnerController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowBQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T15:09:15.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainStockController.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\MainStockController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MainStockController.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\MainStockController.cs",
+              "RelativeToolTip": "Controllers\\MainStockController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAUwHwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T15:27:40.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderItemController.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\OrderItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderItemController.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\OrderItemController.cs",
+              "RelativeToolTip": "Controllers\\OrderItemController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAowDIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:45:20.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "Dto\\CustomerDto.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\CustomerDto.cs",
+              "RelativeToolTip": "Dto\\CustomerDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T10:24:29.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ISubStockRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\ISubStockRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISubStockRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\ISubStockRepository.cs",
+              "RelativeToolTip": "Interfaces\\ISubStockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:26:55.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IOrderItemRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\IOrderItemRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IOrderItemRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\IOrderItemRepository.cs",
+              "RelativeToolTip": "Interfaces\\IOrderItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:37:07.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MainStock.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\MainStock.cs",
+              "RelativeDocumentMoniker": "Models\\MainStock.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\MainStock.cs",
+              "RelativeToolTip": "Models\\MainStock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:58:37.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IMainStockRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\IMainStockRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMainStockRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\IMainStockRepository.cs",
+              "RelativeToolTip": "Interfaces\\IMainStockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:26:14.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CustomerRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA1wDYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:40:37.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAUwIEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:44:18.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PreOrderController.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\PreOrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PreOrderController.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\PreOrderController.cs",
+              "RelativeToolTip": "Controllers\\PreOrderController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:43:09.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OutletController.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\OutletController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OutletController.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Controllers\\OutletController.cs",
+              "RelativeToolTip": "Controllers\\OutletController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAkwA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:42:13.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OutletRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\OutletRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OutletRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\OutletRepository.cs",
+              "RelativeToolTip": "Repository\\OutletRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:37:40.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderItemRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\OrderItemRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderItemRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Repository\\OrderItemRepository.cs",
+              "RelativeToolTip": "Repository\\OrderItemRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:40:59.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:44:52.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SubStock.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\SubStock.cs",
+              "RelativeDocumentMoniker": "Models\\SubStock.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\SubStock.cs",
+              "RelativeToolTip": "Models\\SubStock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:02:56.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Models\\Sale.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\Sale.cs",
+              "RelativeToolTip": "Models\\Sale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T12:02:28.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:00:45.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PreOrder.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\PreOrder.cs",
+              "RelativeDocumentMoniker": "Models\\PreOrder.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\PreOrder.cs",
+              "RelativeToolTip": "Models\\PreOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:04:01.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Partner.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\Partner.cs",
+              "RelativeDocumentMoniker": "Models\\Partner.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\Partner.cs",
+              "RelativeToolTip": "Models\\Partner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:46:00.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Outlet.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\Outlet.cs",
+              "RelativeDocumentMoniker": "Models\\Outlet.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\Outlet.cs",
+              "RelativeToolTip": "Models\\Outlet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:06:21.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:02:02.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:02:26.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:12:09.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Seed.cs",
+              "RelativeDocumentMoniker": "Seed.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Seed.cs",
+              "RelativeToolTip": "Seed.cs",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAQwO8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:15:25.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Helper\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "Helper\\MappingProfiles.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Helper\\MappingProfiles.cs",
+              "RelativeToolTip": "Helper\\MappingProfiles.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T10:27:06.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SaleDto.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\SaleDto.cs",
+              "RelativeDocumentMoniker": "Dto\\SaleDto.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\SaleDto.cs",
+              "RelativeToolTip": "Dto\\SaleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:43:44.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SubStockDto.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\SubStockDto.cs",
+              "RelativeDocumentMoniker": "Dto\\SubStockDto.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\SubStockDto.cs",
+              "RelativeToolTip": "Dto\\SubStockDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:40:53.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PreOrderDto.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\PreOrderDto.cs",
+              "RelativeDocumentMoniker": "Dto\\PreOrderDto.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\PreOrderDto.cs",
+              "RelativeToolTip": "Dto\\PreOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T10:25:49.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "OutletDto.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\OutletDto.cs",
+              "RelativeDocumentMoniker": "Dto\\OutletDto.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\OutletDto.cs",
+              "RelativeToolTip": "Dto\\OutletDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T10:25:27.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PartnerDto.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\PartnerDto.cs",
+              "RelativeDocumentMoniker": "Dto\\PartnerDto.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\PartnerDto.cs",
+              "RelativeToolTip": "Dto\\PartnerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:39:33.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Dto\\ProductDto.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\ProductDto.cs",
+              "RelativeToolTip": "Dto\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T10:24:59.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MainStockDto.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\MainStockDto.cs",
+              "RelativeDocumentMoniker": "Dto\\MainStockDto.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Dto\\MainStockDto.cs",
+              "RelativeToolTip": "Dto\\MainStockDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:36:43.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\DAL\\DataContext.cs",
+              "RelativeDocumentMoniker": "DAL\\DataContext.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\DAL\\DataContext.cs",
+              "RelativeToolTip": "DAL\\DataContext.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAswG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T12:23:58.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:34:11.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20240804143232_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Migrations\\20240804143232_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240804143232_InitialCreate.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Migrations\\20240804143232_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240804143232_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:32:32.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAADqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T12:13:14.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20240804141105_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Migrations\\20240804141105_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240804141105_InitialCreate.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Migrations\\20240804141105_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240804141105_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:11:05.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IPartnerRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\IPartnerRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPartnerRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\IPartnerRepository.cs",
+              "RelativeToolTip": "Interfaces\\IPartnerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:24:24.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:54:34.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ISaleRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\ISaleRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISaleRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\ISaleRepository.cs",
+              "RelativeToolTip": "Interfaces\\ISaleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:27:41.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IPreOrderRepository.cs",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\IPreOrderRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPreOrderRepository.cs",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\Interfaces\\IPreOrderRepository.cs",
+              "RelativeToolTip": "Interfaces\\IPreOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:34:43.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ddApp.csproj",
+              "DocumentMoniker": "D:\\Ashane\\My Projects\\Websites\\ddApp\\ddApp.csproj",
+              "RelativeDocumentMoniker": "ddApp.csproj",
+              "ToolTip": "D:\\Ashane\\My Projects\\Websites\\ddApp\\ddApp.csproj",
+              "RelativeToolTip": "ddApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-02T11:56:29.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
